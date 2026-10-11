@@ -1,0 +1,22 @@
+name: capitalflow_showcase
+description: >
+  Portfolio showcase for CapitalFlow — a production Flutter app for NSE/BSE IPO tracking,
+  capital management, and technical stock scanning. This package contains sanitized UI
+  widgets and standard indicator utilities for evaluation purposes only.
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: ^1.24.0
+
+flutter:
+  uses-material-design: true

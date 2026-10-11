@@ -1,0 +1,27 @@
+CapitalFlow Showcase — Proprietary Software
+
+Copyright (c) 2026 Akal Savaliya. All rights reserved.
+
+This repository contains a curated, sanitized selection of code and documentation
+from the CapitalFlow application, provided solely for portfolio evaluation purposes
+by prospective employers, clients, and collaborators.
+
+PERMITTED:
+  - Viewing the code and documentation contained in this repository for evaluation purposes.
+
+NOT PERMITTED without express written permission from the copyright holder:
+  - Copying, reproducing, or storing any part of this codebase
+  - Modifying, adapting, translating, or creating derivative works
+  - Redistributing, sublicensing, selling, or transferring any part of this codebase
+  - Using any portion of this code in another product or service
+  - Reverse-engineering any aspect of the full application based on this showcase
+
+THE FULL APPLICATION SOURCE CODE, DATABASE SCHEMA, EDGE FUNCTIONS, SYNC LOGIC,
+SCANNER ENGINE, AND ALL ASSOCIATED INTELLECTUAL PROPERTY ARE PROPRIETARY AND
+NOT INCLUDED IN THIS SHOWCASE.
+
+THIS SOFTWARE IS PROVIDED "AS IS" FOR EVALUATION PURPOSES ONLY, WITHOUT WARRANTY
+OF ANY KIND. THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OR REVIEW OF THIS SHOWCASE.
+
+For licensing inquiries or collaboration: [your-email@example.com]
